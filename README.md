@@ -1,4 +1,4 @@
-twi2box
+twi2box 1.0-beta
 =======
 
 Twi2box this is web tool box for Twitter.
@@ -28,4 +28,4 @@ UNstable!
 
 Author
 ======
-Vagner R. Fernandes <vagner.rodrigues@gmail.com>
+Vagner Rodrigues Fernandes <vagner.rodrigues@gmail.com>
