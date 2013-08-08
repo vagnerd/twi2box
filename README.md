@@ -11,15 +11,17 @@ Features
 - Filter Twitt's/Hashtags on sub folders
 - Manage Twitt's on sub folders
 - Hashtag auto-reply
-- Monitor Hashtag
+- Monitor Hashtag & Mentions
+- Forward Twitt to e-mail
 
 Install
 =======
-- MySQL structure on (sql/twi2box.sql)
-- Config MySQL & Twiiter Key's on lib/config.php
-- Access http://app-url/
-- Authorize App
-- Use
+- MySQL structure on sql/twi2box.sql
+- Configure MySQL Credentials and Twiiter Key's on lib/config.php
+- Add in cron php execute robots/robot.php and hashtag-robot.php 
+- Access http://host.com/app-url/
+- Authorize App!
+- Use!
 
 Info
 ====
