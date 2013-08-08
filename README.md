@@ -1,18 +1,17 @@
 twi2box
 =======
 
-twi2box me!
-
 Twi2box this is web tool box for Twitter.
 
 Features
 ========
-- Store/Backup Twitt's
-- Filter Twitt's/Hashtags on sub folders
+- Store and Backup Twitt's
+- Filter Twitt's and Hashtags on sub folders
 - Manage Twitt's on sub folders
 - Hashtag auto-reply
-- Monitor Hashtag & Mentions
+- Monitor Hashtag and Mentions
 - Forward Twitt to e-mail
+- Store profile informations from Hashtag and Mentions
 
 Install
 =======
