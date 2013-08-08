@@ -7,8 +7,9 @@ Twi2box this is web tool box for Twitter.
 
 Features
 ========
-- Store/Backup twitt's
-- Filter twitt's on sub folders
+- Store/Backup Twitt's
+- Filter Twitt's/Hashtags on sub folders
+- Manage Twitt's on sub folders
 - Hashtag auto-reply
 - Monitor Hashtag
 
