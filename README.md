@@ -12,6 +12,7 @@ Features
 - Monitor Hashtag and Mentions
 - Forward Twitt to e-mail
 - Store profile informations from Hashtag and Mentions
+- Twitter clipping
 
 Install
 =======
@@ -24,7 +25,7 @@ Install
 
 Info
 ====
-UNstable!
+BETA!
 
 Author
 ======
