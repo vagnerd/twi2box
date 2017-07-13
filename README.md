@@ -16,12 +16,7 @@ Features
 
 Install
 =======
-- MySQL structure on sql/twi2box.sql
-- Configure MySQL Credentials and Twiiter Key's on lib/config.php
-- Add in cron php execute robots/robot.php and hashtag-robot.php 
-- Access http://host.com/app-url/
-- Authorize App!
-- Use!
+LAMP!
 
 Info
 ====
